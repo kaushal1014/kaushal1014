@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal1014&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal1014" /> </p>
 
-- 🔭 I’m currently working on web portal application for enrolled PhD scholars [Phd Portal](https://github.com/kaushal1014/phd_scholar)
+- 🔭 I’m currently working on a Event-Driven Ingestion Pipeline.
 
-- 🌱 I’m currently learning Machine Learning **PyTorch, Keras, Octave**
-
-- 💬 Ask me about **React, Express, MERN stack**
+- 🌱 I’m currently learning Machine Learning **PySpark, Kafka, and the Hadoop Ecosytem**
 
 - 📫 How to reach me **kaushal.patil163@gmail.com**
 
