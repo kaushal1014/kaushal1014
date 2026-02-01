@@ -33,7 +33,7 @@
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kaushal1014&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal1014&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api?username=kaushal1014&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 
